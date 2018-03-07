@@ -261,7 +261,7 @@ public class RichRelevance {
      * locale of the device, but if further configurable through the builder</li><li>The starting
      * index for results defaults to 0, but is further configurable through the builder</li><li>
      * The rows defaults to 20, but is further configurable through the builder</li><li>SSL
-     * is enabled by default, but is further configurable through the builder</li>
+     * is enabled by default, but is further configurable through the builder</li></ul>
      *
      * @param query     The text to search
      * @param placement The placement for which to find the search results. Only searches for a single
